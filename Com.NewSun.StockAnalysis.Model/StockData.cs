@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 using Com.NewSun.DataHelper;
 
 namespace Com.NewSun.StockAnalysis.Model
