@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.NewSun.DataHelper", "Com.NewSun.DataHelper\Com.NewSun.DataHelper.csproj", "{2DFD530C-3B29-43F7-98BA-4CF135F154FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{D5A99861-D8FF-4087-832A-37C32F9C1AD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{19EBD35A-4DF3-497B-8CB3-D764D8610FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.NewSun.StockAnalysis.Model", "Com.NewSun.StockAnalysis.Model\Com.NewSun.StockAnalysis.Model.csproj", "{EDE599F1-D294-473D-9D27-F37E7C5FA4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.NewSun.Common", "Com.NewSun.Common\Com.NewSun.Common.csproj", "{AEF563F8-908C-4EDD-8C6D-92DFF78458B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{4F80DCF4-A4E8-4588-849F-D46959EBF8D4}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\MongoDB.Bson.dll = Lib\MongoDB.Bson.dll
+		Lib\MongoDB.Driver.dll = Lib\MongoDB.Driver.dll
+		Lib\Newtonsoft.Json.dll = Lib\Newtonsoft.Json.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.NewSun.StockAnalysis.WinService", "Com.NewSun.StockAnalysis.WinService\Com.NewSun.StockAnalysis.WinService.csproj", "{2ECF42D6-41DD-46F0-A57E-D7420C177A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DFD530C-3B29-43F7-98BA-4CF135F154FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFD530C-3B29-43F7-98BA-4CF135F154FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFD530C-3B29-43F7-98BA-4CF135F154FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFD530C-3B29-43F7-98BA-4CF135F154FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE599F1-D294-473D-9D27-F37E7C5FA4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE599F1-D294-473D-9D27-F37E7C5FA4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE599F1-D294-473D-9D27-F37E7C5FA4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE599F1-D294-473D-9D27-F37E7C5FA4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF563F8-908C-4EDD-8C6D-92DFF78458B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF563F8-908C-4EDD-8C6D-92DFF78458B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF563F8-908C-4EDD-8C6D-92DFF78458B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF563F8-908C-4EDD-8C6D-92DFF78458B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECF42D6-41DD-46F0-A57E-D7420C177A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECF42D6-41DD-46F0-A57E-D7420C177A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECF42D6-41DD-46F0-A57E-D7420C177A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECF42D6-41DD-46F0-A57E-D7420C177A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2DFD530C-3B29-43F7-98BA-4CF135F154FC} = {D5A99861-D8FF-4087-832A-37C32F9C1AD2}
+		{AEF563F8-908C-4EDD-8C6D-92DFF78458B7} = {D5A99861-D8FF-4087-832A-37C32F9C1AD2}
+		{EDE599F1-D294-473D-9D27-F37E7C5FA4B6} = {19EBD35A-4DF3-497B-8CB3-D764D8610FAB}
+		{2ECF42D6-41DD-46F0-A57E-D7420C177A4E} = {19EBD35A-4DF3-497B-8CB3-D764D8610FAB}
+	EndGlobalSection
+EndGlobal

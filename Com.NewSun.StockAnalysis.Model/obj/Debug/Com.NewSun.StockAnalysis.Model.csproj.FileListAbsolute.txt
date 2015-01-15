@@ -1,0 +1,9 @@
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.Model\bin\Debug\Com.NewSun.StockAnalysis.Model.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.Model\bin\Debug\Com.NewSun.StockAnalysis.Model.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.Model\obj\Debug\Com.NewSun.StockAnalysis.Model.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.Model\obj\Debug\Com.NewSun.StockAnalysis.Model.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.Model\obj\Debug\Com.NewSun.StockAnalysis.Model.csprojResolveAssemblyReference.cache
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.Model\bin\Debug\MongoDB.Bson.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.Model\bin\Debug\Com.NewSun.DataHelper.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.Model\bin\Debug\MongoDB.Driver.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.Model\bin\Debug\Com.NewSun.DataHelper.pdb

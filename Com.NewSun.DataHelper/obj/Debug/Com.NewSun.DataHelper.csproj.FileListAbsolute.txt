@@ -1,0 +1,7 @@
+C:\WorkForder\Com.NewSun\Com.NewSun.DataHelper\bin\Debug\Com.NewSun.DataHelper.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.DataHelper\bin\Debug\Com.NewSun.DataHelper.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.DataHelper\bin\Debug\MongoDB.Bson.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.DataHelper\bin\Debug\MongoDB.Driver.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.DataHelper\obj\Debug\Com.NewSun.DataHelper.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.DataHelper\obj\Debug\Com.NewSun.DataHelper.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.DataHelper\obj\Debug\Com.NewSun.DataHelper.csprojResolveAssemblyReference.cache

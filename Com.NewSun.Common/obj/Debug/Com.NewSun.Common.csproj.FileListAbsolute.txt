@@ -1,0 +1,9 @@
+C:\WorkForder\Com.NewSun\Com.NewSun.Common\bin\Debug\Com.NewSun.Common.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.Common\bin\Debug\Com.NewSun.Common.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.Common\bin\Debug\MongoDB.Bson.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.Common\bin\Debug\MongoDB.Driver.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.Common\bin\Debug\Newtonsoft.Json.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.Common\bin\Debug\Newtonsoft.Json.xml
+C:\WorkForder\Com.NewSun\Com.NewSun.Common\obj\Debug\Com.NewSun.Common.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.Common\obj\Debug\Com.NewSun.Common.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.Common\obj\Debug\Com.NewSun.Common.csprojResolveAssemblyReference.cache

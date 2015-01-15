@@ -1,0 +1,16 @@
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Com.NewSun.StockAnalysis.WinService.exe.config
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Com.NewSun.StockAnalysis.WinService.exe
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Com.NewSun.StockAnalysis.WinService.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Com.NewSun.Common.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Com.NewSun.DataHelper.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\MongoDB.Bson.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Newtonsoft.Json.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\MongoDB.Driver.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Com.NewSun.Common.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Com.NewSun.DataHelper.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Newtonsoft.Json.xml
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\obj\Debug\Com.NewSun.StockAnalysis.WinService.csprojResolveAssemblyReference.cache
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\obj\Debug\Com.NewSun.StockAnalysis.WinService.exe
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\obj\Debug\Com.NewSun.StockAnalysis.WinService.pdb
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Com.NewSun.StockAnalysis.Model.dll
+C:\WorkForder\Com.NewSun\Com.NewSun.StockAnalysis.WinService\bin\Debug\Com.NewSun.StockAnalysis.Model.pdb
